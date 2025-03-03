@@ -1,0 +1,10 @@
+To create a proper favicon.ico file:
+
+1. Open the house-emoji.html file in a browser
+2. Take a screenshot of the emoji (make sure it's square)
+3. Use an online favicon generator like https://favicon.io/ or https://realfavicongenerator.net/
+4. Upload your screenshot
+5. Download the generated favicon package
+6. Replace the files in the favicon directory with the generated ones
+
+For now, we're using the SVG directly as the favicon, which works in modern browsers but may not work in all browsers. 
