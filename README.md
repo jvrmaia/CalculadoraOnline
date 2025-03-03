@@ -47,6 +47,12 @@ Esta aplicação permite aos usuários simular financiamentos imobiliários usan
 
 Este projeto está configurado para ser implantado automaticamente no GitHub Pages. Para mais informações sobre o processo de deployment, consulte o [guia de deployment](.github/README.md).
 
+## Favicon
+
+O favicon da aplicação é um emoji de casa (🏠) que representa o tema de financiamento imobiliário. O favicon é implementado como um arquivo SVG, o que proporciona uma boa qualidade em diferentes tamanhos e resoluções.
+
+Para gerar um favicon.ico completo para todos os navegadores, siga as instruções no arquivo `calculadora-financiamento/public/favicon/favicon-instructions.txt`.
+
 ## URL da Aplicação
 
 A aplicação está disponível em: [https://jvrmaia.github.io/CalculadoraOnline/](https://jvrmaia.github.io/CalculadoraOnline/) 
